@@ -1,11 +1,13 @@
 body {
     font-family: 'Do Hyeon', sans-serif, 'Open Sans';
     background-color: #343A40;
+    color: #ffffff;
 }
 
 .navbar {
     padding-left: 3vh;
     padding-right: 3vh;
+    color: #ffffff;
 }
 
 header {
@@ -31,6 +33,10 @@ header {
 
 .ccc {
     font-size: 2vh;
+}
+
+a.nav-link.ppp:hover {
+    color: rgb(230, 41, 88);
 }
 
 #proyecto img {
